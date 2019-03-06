@@ -350,3 +350,9 @@ img {
   background: #FFFFFF;
   color: #17A2B8;
 }
+.toggle-class p {
+  color: lightcoral;
+}
+.toggle-class h2 {
+  color: greenyellow;
+}
